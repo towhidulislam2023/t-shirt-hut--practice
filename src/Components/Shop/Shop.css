@@ -1,0 +1,17 @@
+.FullShopContainer{
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    gap: 20px;
+
+}
+
+.shopContainer{
+    display: grid;
+    grid-template-columns:repeat(3,1fr);
+    gap: 40px;
+
+}
+.cartComp{
+    width: 50vh;
+}
